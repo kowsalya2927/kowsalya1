@@ -1,0 +1,36 @@
+*{
+    background-color: pink;
+    color: black;
+    border-color: black;
+
+}
+#about,#career {
+    border-style: solid;
+    background-color: purple;
+    width: auto;
+    padding: 20px;
+    margin-left: 50px;
+    color: white;
+}
+#box {
+    border-style: solid;
+    background-color: purple;
+    margin-left: 50px;
+    color: white;
+    
+}
+li{
+    background-color: purple;
+    color: white;
+
+}
+ul{
+    background-color: purple;
+    color: black;
+}
+strong{
+    background-color: purple;
+    color: red;
+}
+
+
